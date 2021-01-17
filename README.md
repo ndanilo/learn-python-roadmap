@@ -54,7 +54,43 @@ _Challenges Week._
 1. [ ] Solve as many python challenges which as possible to achieve '`7kyu`'/'`6kyu`'/'`5kyu`' rank on codewars.
 2. [ ] Choose and complete a project from the projects list.
 
-## Projects
+## Additional Tasks
+
+### 1. Concurrent and Parallel Programming
+
+1. [ ] Mutual Exclusion
+2. [ ] Locks/Deadlocks
+3. [ ] Thread Concepts
+4. [ ] Socket Programming
+5. [ ] Network Programming
+6. [ ] Process Scheduling Concepts
+
+### 2. Projects on Python
+
+1. [ ] Create Essential Projects
+2. [ ] Database Operations Handling
+3. [ ] Creating Beginner Level Mobile Apps
+4. [ ] Creating Beginner Level Websites
+5. [ ] Automating Manual basics Stuffs (Ex. Bulk File Renaming)
+
+### 3. Advanced Python
+
+1. [ ] Designing APIs using Flask/Django
+2. [ ] Creating Advanced Projects like CRM
+3. [ ] Working with Pandas/Numpy/Scrapy Libraries
+4. [ ] Working on ML libraries
+5. [ ] Application Deployment on Server
+
+### 4. Last But Not Least
+
+1. [ ] Data Science/Machine Learning Projects
+2. [ ] Data Mining/Visualisation
+3. [ ] Bot Development
+4. [ ] IoT Projects
+5. [ ] Games Development
+6. [ ] Fullstack Development
+
+## Others Projects
 
 - [ ] Create a module that checks if a haiku is following proper format (5-7-5 syllable pattern)
 - [ ] Create a slackbot (HTTP server) for rolling dice via `/roll`.
