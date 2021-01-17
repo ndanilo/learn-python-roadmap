@@ -17,7 +17,7 @@ You can `clone` or `fork` this repository to use it as a checklist; tracking pro
 If you are starting on week 0, skip any tasks that are repeated in later weeks&mdash;or&mdash;use them as an oppurtunity for review.
 
 1. [x] Complete the [CodeAcademy.com Python Course](https://www.codecademy.com/learn/python) (only the free content)
-2. [ ] Work through the contents of [Learn Python the Hard Way](https://learnpythonthehardway.org/book/)
+2. [x] Work through the contents of [Learn Python the Hard Way](https://learnpythonthehardway.org/book/)
 
 ### Week 1
 
