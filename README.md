@@ -59,10 +59,10 @@ _Challenges Week._
 ### 1. Concurrent and Parallel Programming
 
 1. [ ] Mutual Exclusion
-2. [ ] Locks/Deadlocks
-3. [ ] Thread Concepts
-4. [ ] Socket Programming
-5. [ ] Network Programming
+2. [x] Locks/Deadlocks
+3. [x] Thread Concepts
+4. [x] Socket Programming
+5. [x] Network Programming
 6. [ ] Process Scheduling Concepts
 
 ### 2. Projects on Python
